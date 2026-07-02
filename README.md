@@ -37,3 +37,9 @@ Email Me  ✉️ **pryanshuji045@gmail.com.com** For Collaboration/Project or An
 [![](https://komarev.com/ghpvc/?username=priyanshuji045-cell&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=asxayush&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
